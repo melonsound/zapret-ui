@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="src/ZapretUI.Application/ZapretUI.Application.csproj" />
   <Project Path="src/ZapretUI.Domain/ZapretUI.Domain.csproj" />
+  <Project Path="src/ZapretUI.Infrastructure/ZapretUI.Infrastructure.csproj" />
   <Project Path="test/ZapretUI.Tests/ZapretUI.Tests.csproj" />
 </Solution>
